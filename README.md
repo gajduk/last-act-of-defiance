@@ -6,7 +6,9 @@ Made almost entirely from scratch without using any external libraries.
 
 ---------------------
 
-Features 2 different basic weapons, a super weapon and 2 types of special power ups: a deflector shield, a time warp and a repair kit.
+Features 2 different basic weapons, a super weapon and 3 types of special power ups: a deflector shield, a time warp and a repair kit.
+
+
 The game has 4 difficulty settings, an auto-fire option and an endless swarm of enemies for you to destroy.
 
 -----
@@ -14,7 +16,7 @@ The game has 4 difficulty settings, an auto-fire option and an endless swarm of 
 Made for fun during a summer break when I was in my 2nd year of Computer Science studies at the Faculty in Skopje.
 
 
-Are you ready for your last act of defiance?
+Are you ready for your Last Act of DefianceEEEE?
 
 ------
 
